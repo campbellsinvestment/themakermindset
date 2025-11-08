@@ -172,6 +172,10 @@ a:hover {
     line-height: 1.15;
 }
 
+.author-section .section-title {
+    margin-bottom: 4rem;
+}
+
 .section-subtitle {
     text-align: center;
     color: var(--text-light);
